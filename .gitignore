@@ -1,0 +1,12 @@
+target/
+node_modules/
+dist/
+.angular/
+data/
+*.log
+.DS_Store
+.idea/
+*.iml
+.vscode/
+test-results/
+playwright-report/
